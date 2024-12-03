@@ -1,0 +1,92 @@
+site_name: 🗃️ Manual do Usuário SGD
+nav:
+  -  🏠 Início: index.md 
+  -  🛡️ Segurança:
+      - 👤 Cadastro de usuários: seguranca/cadastro.md
+      - 👥 Grupos de Usuários: seguranca/grupo.md
+      - 📱 Aplicações : seguranca/aplicacoes.md
+      - 🗃️ Grupo de Aplicações : seguranca/grupo_aplica.md
+      - 🔗👤 Usuários para Grupo : seguranca/usuario_grupo.md
+      - 🔗📱Aplicativos para Grupo : seguranca/aplica_grupo.md
+      - 📐 Regras de Negócio : seguranca/regras.md
+      - 🔒📱APPS x Permissão : seguranca/apps.md
+      - 📫 Envio Email :
+        - 📧 Contas de Email : seguranca/contas.md
+        - 🔔Tipos notificações : seguranca/tipo.md
+        - 🙋 Pessoas por Notificação : seguranca/pessoas.md
+      - 🧑🏻‍💻 Usuários Logados : seguranca/usuarios_log.md
+      - 💻 Log do Sistema : seguranca/log.md
+      - 🔏 Alterar Senha : seguranca/senha.md
+      - 🗂️ Versionamento :
+        - 📝 Registrar Alterações : seguranca/registrar.md
+        - 🔄 Versionar : seguranca/versionar.md
+        - 📜 Histórico de Versões : seguranca/historico.md
+      - 📩 SMS : seguranca/sms.md
+  -  👷‍♂️ Operacional: operacional.md
+  -  🩺 Saúde e Segurança: saude-seguranca.md
+  -  🎦 Monitoria: monitoria.md
+  -  👨‍💼 RH/DP: rh-dp.md
+  -  📋 SGI:
+      - 📑 Homologação de produdos : sgi/homologacao.md
+      - 📜 Lista Maestra :
+        - 🗂️ Cadastro : sgi/cadastro_mestre.md
+        - 📊 Relatorio : sgi/relata_mestre.md
+        - 🔧 Cadastros Auxiliares : 
+          - 📄 Cad. Documentos : sgi/cadastro_doc.md
+          - 🌐 Cad. Aréa : sgi/cadastro_area.md
+          - 🆔 Cad. Indentificação: sgi/cadastro_id.md
+          - 🛡️ Cad. Proteção : sgi/cadastro_prot.md
+      - 🗒️ Lista de Presença :
+        - ✏️ Registrar : sgi/registrar.md
+        - 📆 Cronograma de Treinamento : sgi/cronograma.md
+        - 📌Titulo : 
+          - 🗂️ Cadastro : sgi/cadastro.md
+          - 📑 Relatorio : sgi/relata_titulo.md
+        - 📊 Relatórios : 
+          - 🗂️📋 Por Registro : sgi/relata_registro.md
+          - 👨‍🏫 Por Instrutor : sgi/relata_instrutor.md
+          - 🧑‍🤝‍🧑 Por Participante : sgi/relata_participante.md
+          - 💬 Feedback de Treinamento : sgi/feedback.md
+        - ✍️ Assinaturas Gerais: SGD/assinatura_gerais.md
+  -  📦 Almoxarifado: almoxarifado.md
+  -  📊 Indicadores: indicadores.md
+  -  📢 Comunicação: comunicacao.md
+  -  🎧 HelpDesk: helpdesk.md
+  -  👩‍💻 SGD:
+      - 📡 Radar de Ações: SGD/radar_acoes.md
+      - 🔑 Alterar Senha: SGD/alterar_senha.md
+      - 🎨 Alterar Tema: SGD/alterar_tema.md
+      - ✍️ Assinaturas Gerais: SGD/assinatura_gerais.md
+      - ☝️ Coletar Biometria: SGD/coletar_biometria.md
+      - 👤📷Coletar Biometria Facial: SGD/coletar_biometria_facial.md
+      - 🛡️ Biometria: SGD/biometria.md
+      - 🚪 Meus Acessos: SGD/meus_acessos.md
+      - 📋❗Pendências: SGD/pendencias.md
+      - 🔓 Sair: SGD/sair.md
+theme: 
+  name: dracula
+  favicon: img/favicon.ico
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - content.full_width
+extra_css:
+  - css/custom.css
+extra_javascript:
+  - assets/js/lightbox-plus-jquery.js
+  - assets/js/checklists.js
+markdown_extensions:
+  - attr_list
+  - full_yaml_metadata
+  - toc:
+      permalink: false
+      title:
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.snippets
+plugins:
+  - search
