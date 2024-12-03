@@ -34,6 +34,122 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
 
      ![image.png](pdf_homologa.png)
 
+ - ## Lista mestra ![image.png](lista_maestra.png)
+   Esta sessão esta destinada para o gerenciamento centralizadado de documentos, procedimentos, áreas e informações relacionadas ao niveis de acesso e armazenamento da informação.
+  
+
+    - ### Cadastro ![image.png](cad_maestra.png)
+    
+    - **Descrição**: Aplicação que permite o cadastro de documentos, procedimentos, aréas e niveis de acesso.
+
+    - **Passo a passo**: 
+
+    - Aplicação abre em forma de filtro para que possa ser passado os parametros para a busca e abertura da lista de documentos, neste filtro nenhum dos parametros são obrigatórios.
+
+    - Ao clicar no botão "NOVO" se abrirá uma nova tela para que se possa realizar o cadastro de um novo documento.
+
+    ![image.png](filtro_maestro.png)
+
+    - Prencha os campos solicitados e clique no botão "INCLUIR" para realizar o cadastro do documento.
+
+    - No relatorio aberto e possivel cliclar no ícone de "EDITAR" para realizar a edição do documento.
+
+    ![image.png](edita_doc_maestra.png)
+
+    - Ao clicar no link na coluna arquivo, realizará o download do arquivo solicitado.
+
+    - ### Relatório ![image.png](relata_maestra.png)
+
+    - **Descrição**: Aplicação que permite a visualização dos documentos, procedimentos, áreas e niveis de acesso.
+
+    - **Passo a passo**: Aplicação abre em forma de filtro para que possa ser passado os parametros para a busca e abertura da lista de documentos, neste filtro nenhum dos parametros são obrigatórios.
+
+    ![image.png](filtro_maestro.png)
+  
+    - **Abre o Relatorio dos documentos da lista mestra** 
+
+    ![image.png](relatorio_formulario.png)
+
+  
+    - Ao clicar no link na coluna arquivo, realizará o download do arquivo solicitado.
+
+    - ### Cadastros auxiliares ![image.png](cad_aux.png)
+
+    Sub - menu para cadastro de documentos, áreas, indentificação e cadastro de proteção (nivéis de acesso)
+
+     - #### Cadastro de documentos ![image.png](cad_doc.png)
+
+     - **Descrição** Aplicação para cadastro e edição dos nomes do documentos/procedimentos
+     
+     ![image.png](cadastro_documento.png)
+
+     - Ao clicar no botão "NOVO" se abrirá uma nova tela para que se possa se realizado o novo registro.
+
+     ![image.png](novo_documento.png)
+
+     - Prencha os campos solicitados e clique no botão "INCLUIR" para realizar
+
+     - Ao clicar no icone de edição se abrirá uma nova tela para que se possa realizar a edição do documento.
+
+     ![image.png](atualiza_documento.png)
+
+     - #### Cadastro de Área ![image.png](cad_area.png)
+
+     - **Descrição** : Aplicação para cadastro e edição das áreas de atuação e disponilibilidade da informação.(Departamento)
+
+     ![image.png](relatorio_area.png)
+
+     - **Passo a passo** : 
+
+     - Ao clicar no botão "NOVO" se abrirá uma nova tela para que se possa se realizado o novo registro.
+
+     ![image.png](reg_area.png)
+    
+     - Prencha os campos solicitados e clique no botão "INCLUIR"
+
+     - Ao clicar no icone de edição se abrirá uma nova tela para que se modificar um um registro já realizado. 
+
+     ![image.png](edicao_area.png)
+
+     - #### Cadastro de Identificação ![image.png](cad_id.png)
+
+     - **Descrição** : Aplicação para cadastro e edição das identificações dos documento (Descrição). 
+
+     ![image.png](relatorio_descricao.png)
+
+     - **Passo a passo** : 
+     
+     - Ao clicar no botão "NOVO" se abrirá uma nova tela para que se possa se realizado o novo registro
+
+     ![image.png](reg_area.png)
+
+     - Ao clicar no icone de edição se abrirá uma nova tela para que se possa realizar a edição do registro.
+
+     ![image.png](edit_area.png)
+
+     - #### Cadastro de Proteção  ![image.png](cadastro_prot.png)
+
+     - **Descrição** : Aplicação para cadastro e edição das proteções dos documentos (Descrição), Departamento ou setor responsavel e seu respectivo nivel de acesso. 
+
+     ![image.png](cadastro_prote.png)
+
+     - **Passo a passo** :
+    
+     - Ao clicar no botão "NOVO" se abrirá uma nova tela para que se possa se realizado o novo registro
+
+     ![image.png](reg_prote.png)
+
+     - Ao clicar no icone de edição se abrirá uma nova tela para que se possa realizar a edição do registro.
+
+     ![image.png](edita_prot.png)
+
+     - Aqui se pode excluir ou editar ou registros. 
+    
+
+
+
+
+
  - ## Lista de Presença  ![image.png](image%201.png)
    Esta sessão esta destinada as aplicação para registro e controle  de lista de presença, em treinamentos , DDS, Certificações, palestras, eventos corporativos e afins.
 
@@ -62,8 +178,10 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
         <img src="/sgi/registro.png" alt="Imagem Ampliada">
         </div>
 
-        - **Descrição**: Cria uma novo registro para ser assinado podendo ser treinamentos , DDS , Certificados , palestras , Tratativas de não conformidades e registros de eventos.
+        - **Descrição**: Cria uma novo registro para ser assinado podendo ser treinamentos, DDS, Certificados, palestras, Tratativas de não conformidades e registros de eventos.
+
         - **Passo a Passo**:
+
         - No campo **TIPO** selecione a opção de  registro : 
         - Certificação 
         - DDS
@@ -104,7 +222,7 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
         <img src="/sgi/instrutor.png" alt="Imagem Ampliada">
         </div>
 
-        - Ao clicar no botão +novo se abrira uma tela para inclusão do conteudo da atividade
+        - Ao clicar no botão "INCLUIR" se abrira uma tela para inclusão do conteudo da atividade
 
         <label for="modal-toggle-3">
         ![image.png](conteudo.png)
