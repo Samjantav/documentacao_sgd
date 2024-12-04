@@ -1,4 +1,4 @@
- ## Cadastro de Proteção  ![image.png](cadastro_prot.png)
+## Cadastro de Proteção  ![image.png](cad_prot.png)
 
 - **Descrição** : Aplicação para cadastro e edição das proteções dos documentos (Descrição), Departamento ou setor responsavel e seu respectivo nivel de acesso. 
 
