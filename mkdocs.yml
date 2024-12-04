@@ -36,6 +36,12 @@ nav:
           - 🌐 Cad. Aréa : sgi/cadastro_area.md
           - 🆔 Cad. Indentificação: sgi/cadastro_id.md
           - 🛡️ Cad. Proteção : sgi/cadastro_prot.md
+      - 🌍 Meio Ambiente :
+        - 🏢🌿 Conservação das instalações : sgi/conserva_instalacao.md
+        - 💧⚡ Controle de consumo : sgi/controle_consumo.md
+        - 🗑️♻️ Resíduos : sgi/residuos.md
+        - 📊🌱 Indicadores de Meio Ambiente: sgi/indicadores_meio_ambiente.md
+        - 📜⏳ Validade de Documento : sgi/validade_doc.md
       - 🗒️ Lista de Presença :
         - ✏️ Registrar : sgi/registrar.md
         - 📆 Cronograma de Treinamento : sgi/cronograma.md

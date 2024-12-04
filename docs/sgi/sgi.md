@@ -127,7 +127,7 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
 
      ![image.png](edit_area.png)
 
-     - #### Cadastro de Proteção  ![image.png](cadastro_prot.png)
+     - #### Cadastro de Proteção  ![image.png](cad_prot.png)
 
      - **Descrição** : Aplicação para cadastro e edição das proteções dos documentos (Descrição), Departamento ou setor responsavel e seu respectivo nivel de acesso. 
 
@@ -144,8 +144,158 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
      ![image.png](edita_prot.png)
 
      - Aqui se pode excluir ou editar ou registros. 
-    
 
+ - ## Meio Ambiente ![image.png](meio_ambiente.png)
+   Sub-menu de aplicação para gerenciamento de questões ambientais como : Conservação e manutenção dos equipamentos, controle de consumo de recursos naturais, gestão de resíduos, indicadores de meio ambiente, validação de documento e laudos.
+
+    - ### Conservação das Instalações ![image.png](conserva_inst.png)
+
+    - **Descrição** : Aplicação para cadastro e edição das instalações de equipamentos e manutenção predial 
+
+    ![image.png](filtro_instalacao.png)
+
+    - **Passo a passo** :
+    Aplicação abre o filtro onde são passados os parametros para abertura de registros sendo eles.
+    - Nº de Registro
+    - Item
+    - Data de Manutenção / Data de Inspeção
+    - Ativo
+    - Status
+    - Base/Unidade 
+    - Data de Validade
+    - Nº Patrimonio 
+    Após a passagens dos parametros se abrirá o relatorio com os dados solicitados.
+
+    ![image.png](relata_conserva.png)
+
+    - Ao clicar no botão "NOVO" se abre um novo registro 
+
+    ![image.png](registro_instalacao.png)
+
+    - **Cadastro de Novos itens** 
+
+    ![image.png](control_itens.png)
+
+      - Ao clicar no botão novo se abre um novo registro na ultima linha para inserção do registro.
+
+    - **Cadastro de localidades** 
+
+    ![image.png](control_localidade.png)
+
+      - Ao clicar no botão novo se abre um novo registro na ultima linha para inserção do registro.
+
+    - Apos finalizar a inserção das informações deverá presionar o botão "INCLUIR" para salvar o registro.
+    
+    - Ao clicar no icone de edição se abrirá uma nova tela para que se possa realizar a edição do registro e inclusão de anexos 
+
+    ![image.png](edicao_instalacao.png)
+
+
+
+    - ### Controle de Consumo ![image.png](control_consumo.png)
+  
+    - **Descrição** : Aplicação para cadastro e edição do consumo de recursos naturais , como agua , energia, gás, combustivéis , etc.
+
+    ![image.png](relata_consumo.png)
+
+    Aplicação abre o filtro onde são passados os parametros para abertura de registros sendo eles.
+  
+    - localidade 
+    - Data Inclusão 
+    - Data Referente 
+
+    ![image.png](relatorio_consumo_1.png)
+
+    - **Passo a passo** :
+
+    - Ao clicar no botão "NOVO" se abre um novo registro
+
+    ![image.png](registro_consumo.png)
+    
+    - Preencha os campos solicitados e clique no botão "INCLUIR" para salvar o registro.
+    - Tipo
+    - Periodo
+    - Unidade(Lotação)
+    - Consumo 
+    
+    ![image.png](relatorio_propriedade.png)
+
+    - Ao clicar no botão "NOVO " se abre um novo registro
+
+    ![image.png](cadastro_propriedade.png)
+
+    - Preencha os campos solicitados e clique no botão "INCLUIR" para salvar o registro.
+
+    - Ao clicar no icone de edição se o item para edição
+
+    ![image.png](edicao_consumo.png)
+
+    - Se insira os anexos clicando o botão Adicionar arquivos, Após a inserção clique no botão Iniciar upload
+
+    - Após a edição clique no botão "SALVAR" para salvar as alterações.
+
+    - ### Residuos ![image.png](residuos.png)
+
+    - **Descrição** : Aplicação para cadastro e edição dos resíduos gerados pela empresa, como lixo, efluentes, etc.
+     
+    - Aplicação Abre em formato de relatorio com os dados do resíduos gerados pela empresa.
+
+    ![image.png](relata_residuo.png)
+
+    - **Passo a passo** : 
+
+    - Ao clicar no botão "NOVO" se abre um novo registro
+
+    ![imagem.png](novo_residuo.png)
+    
+    - Ao clicar no botão "PESQUISA" se abrirá o filtro para que possa ser passados os parametros para uma busca personalizada. 
+
+    ![imagem.png](filtro_relatorio.png)
+
+    - Ao clicar no icone de "EDIÇÃO" se abrirá o modal para edição do registro.
+
+    ![imagem.png](edicao_residuo.png)
+
+    - Após a edicão clique no botão "SALVAR" para salvar as alterações.
+
+    - Na parte da tela inicial temos acesso os cadastros Auxiliares , que são:
+
+    - **Cadastros de Residuos** ![image.png](cad_residuos.png)
+    - **Descrição** : Aplicação para cadastro do tipo de registro de residuo.
+
+    ![image.png](novo_registro.png)
+
+    - **Passo a passo** :
+
+    - Ao clicar no botão novo se abre um novo registro na ultima linha da tabela.
+
+    - **Cadastros de Local Destino** ![image.png](cad_local_destino.png)
+
+    - **Descrição** : Aplicação para cadastro do local de destino(Parceiro) dos resíduos
+
+    ![image.png](novo_registro.png)
+
+    - **Passo a passo** :
+
+    - Ao clicar no botão novo se abre um novo registro na ultima linha da tabela.
+
+    - **Cadastro de Saída Tipo** ![image.png](cad_saida_tipo.png)
+
+    - **Descrição** : Aplicação para cadastro do tipo de saída dos residuos 
+
+     ![image.png](cad_tipo.png)
+     - **Passo a passo** :
+
+    - Ao clicar no botão novo se abre um novo registro na ultima linha da tabela.
+
+
+    - ### Indicadores de Meio Ambiente 
+    - **Descrição** : Dashboard para visualização dos indicadores de meio ambiente da empresa.
+    - **Passo a passo** :
+
+    - ### Validade de Documentos 
+    - **Descrição** : Aplicação para validação de documentos e laudos.
+    - **Passo a passo** :
 
 
 
@@ -325,6 +475,7 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
         - Público Alvo
         - Tipos 
         - Titulo 
+
         ![image.png](cadastro_treinamento.png)
     
      - ### Titulo ![image.png](image%203.png)
