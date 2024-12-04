@@ -1,0 +1,90 @@
+.drac-box.flex-column .dot-ul {
+  display: none !important;
+}
+.drac-text-grey-ternary {
+  color: #ffffff !important;
+}
+.drac-bg-purple-cyan {
+  background: linear-gradient(var(--gradientDegree), #508be2 0, #508be2 100%) !important;
+}
+.drac-bg-purple {
+  background-color: #508be2 !important;
+}
+.drac-bg-cyan-green {
+  background: linear-gradient(var(--gradientDegree), #508be2 0, #508be2 100%) !important;
+}
+.drac-scrollbar-purple {
+  --drac-scrollbar-bg: transparent;
+  --drac-scrollbar-border: var(--purpleLight);
+  --drac-scrollbar-thumb: #0d6efd !important;
+  --drac-scrollbar-thumb-hover: #3983f1 !important;
+  overflow: auto;
+}
+
+.footer-text {
+  display: none; 
+}
+
+img {
+  cursor: pointer !important;
+}
+
+.modal {
+  display: none !important;
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  background-color: rgba(0, 0, 0, 0.8) !important;
+  justify-content: center !important;
+  align-items: center !important;
+  z-index: 1000 !important;
+  opacity: 0 !important;
+  transition: opacity 0.3s ease-in-out !important;
+}
+
+input[id^="modal-toggle"]:checked ~ .modal {
+  display: flex !important;
+  opacity: 1 !important;
+}
+
+
+.modal img {
+  max-width: 80% !important;
+  max-height: 80% !important;
+  border-radius: 20px !important;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.5) !important;
+}
+
+.modal .close {
+  position: absolute !important;
+  top: 10% !important;
+  right: 10% !important;
+  color: red !important;
+  font-size: 30px !important;
+  cursor: pointer !important;
+}
+
+.highlight-box {
+  border: 2px solid #007bff !important;
+  background-color: #e9f5ff !important;
+  padding: 15px !important;
+  border-radius: 8px !important; 
+  font-family: Arial, sans-serif !important;
+  margin: 10px 0 !important;
+  text-align: center !important;
+  font-weight: bold !important;
+}
+
+.highlight-box a {
+  color: #007bff !important;
+  text-decoration: none !important;
+}
+
+.highlight-box a:hover {
+  text-decoration: underline !important;
+}
+
+
+
