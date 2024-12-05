@@ -42,6 +42,15 @@ nav:
         - 🗑️♻️ Resíduos : sgi/residuos.md
         - 📊🌱 Indicadores de Meio Ambiente: sgi/indicadores_meio_ambiente.md
         - 📜⏳ Validade de Documento : sgi/validade_doc.md
+      - 🕵🏽 Auditoria Interna:
+        - 🔎 Pré auditoria : sgi/pre_auditoria.md
+        - 📄 Cadastrar Norma/ISO : sgi/cadastrar_norma.md
+        - 🔧 Cadastros Auxiliares : 
+          - 📚  Norma/Iso : sgi/norma_iso.md
+          - 📅 Capítulo/Seção : sgi/capitulo.md
+          - 🆔 Cláusula: sgi/clausula.md
+          - 🛡️ Requisito : sgi/requisito.md
+          - 🎯 Subrequisito : sgi/sub_requisito.md 
       - 🗒️ Lista de Presença :
         - ✏️ Registrar : sgi/registrar.md
         - 📆 Cronograma de Treinamento : sgi/cronograma.md

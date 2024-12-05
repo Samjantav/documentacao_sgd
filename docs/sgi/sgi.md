@@ -292,7 +292,7 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
 
 
     - ### Indicadores de Meio Ambiente 
-    
+
     - **Descrição** : Dashboard para visualização dos indicadores de meio ambiente da empresa.
 
     Sendo quatro dashboard , cada um com indicadores específicos para cada área de meio ambiente: 
@@ -357,6 +357,59 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
    - Ao clicar no ícone "PDF" para abrir e realizar o download do documento ao clicar no link do mesmo. 
    
    ![image.png](arquivos.png)
+
+ - ## Auditoria Interna ![image.png](auditoria.png)
+
+  Sub-menu para a pré-auditoria da empresa.
+
+   - ### Pré-Auditoria ![image.png](pre-auditoria.png)
+
+   - **Descrição** : Aplicação para pré-auditoria da empresa.
+
+   - **Passo a Passo** : 
+
+   - ### Cadastrar Norma/Iso ![image.png](cadastro_norma_iso.png)
+
+   - **Descrição**: Realiza o cadastro das normas e issos da empresa.
+
+   - **Passo a Passo** :
+
+   - ### Cadastros Auxiliares ![image.png](cadastros_auxiliares.png)
+
+   - **Descrição**: Realiza o cadastro dos cadastros auxiliares referente a pré auditoria
+
+   - **Passo a Passo** :
+
+      - #### Norma/Iso ![image.png](norma_iso.png)
+
+      - **Descrição**: Realiza o cadastro das normas e issos da empresa.
+
+      - **Passo a Passo** :
+
+
+      - #### Capítulo/Seção ![image.png](capitulo.png)
+
+      - **Descrição**: Realiza o cadastro dos capítulos e seções da empresa.
+
+      - **Passo a Passo** :
+
+      - #### Clásula ![image.png](clausula%20.png)
+
+      - **Descrição** : 
+
+      - **Passo a Passo** : 
+
+      - #### Requisito ![image.png](requisito.png)
+
+      - **Descrição**  :
+
+      - **Passo a Passo**  :
+
+      - #### Subrequisito 
+
+      - **Descrição** :
+
+      -
 
   
  - ## Lista de Presença  ![image.png](image%201.png)
