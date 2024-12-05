@@ -261,6 +261,7 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
     - Na parte da tela inicial temos acesso os cadastros Auxiliares , que são:
 
     - **Cadastros de Residuos** ![image.png](cad_residuos.png)
+
     - **Descrição** : Aplicação para cadastro do tipo de registro de residuo.
 
     ![image.png](novo_registro.png)
@@ -284,22 +285,80 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
     - **Descrição** : Aplicação para cadastro do tipo de saída dos residuos 
 
      ![image.png](cad_tipo.png)
+
      - **Passo a passo** :
 
     - Ao clicar no botão novo se abre um novo registro na ultima linha da tabela.
 
 
     - ### Indicadores de Meio Ambiente 
+    
     - **Descrição** : Dashboard para visualização dos indicadores de meio ambiente da empresa.
-    - **Passo a passo** :
 
-    - ### Validade de Documentos 
-    - **Descrição** : Aplicação para validação de documentos e laudos.
-    - **Passo a passo** :
+    Sendo quatro dashboard , cada um com indicadores específicos para cada área de meio ambiente: 
 
 
+    ![image.png](dashboard.png)
 
+    - **Passo a passo** : 
 
+    - Click em cada menu para visualizar os indicadores de meio ambiente da empresa.
+
+    - Controle de Resíduos 
+
+    ![image.png](dash_residuos.png)
+
+    - Conservação das Instalações 
+
+    ![image.png](indicadores_ambientais.png)
+
+    - Controle de Consumo
+
+    ![image.png](dash_consumo.png)
+
+    - Validade de Documentação 
+
+    ![image.png](dash_documento.png)
+
+  - ### Validade de Documento ![image.png](val_doc.png) 
+
+  - **Descrição** : Aplicação para validação de documentos da empresa.
+
+   ![image.png](validade_doc.png)
+
+   Aplicação se abre em formato de relátorio com os documentos da empresa.
+
+   ![image.png](relata_val_doc.png)
+
+   - **Passo a Passo** :
+
+   - Ao clicar no botão "NOVO" abre uma nova janela  para registro 
+
+   ![image.png](inserir_documento.png)
+
+   - Ao clicar no botão "+ Tipo Documento" Abre uma janela para o registro de um novo tipo de documento.
+  
+   ![image.png](tipo_documento.png)
+
+   - Ao clicar no botão "NOVO" abre uma nova linha para registro de um novo documento.
+
+   - Ao clicar no "Icone" de edição abre uma janela para edição do documento.
+
+   ![image.png](edicao_documentos.png)
+   
+   - Insira os anexos se necessário 
+
+   - Edite o documento e clique em salvar.
+
+   - Ao clicar no botão no botão "Pesquisa" abre um novo filtro. 
+   
+   ![image.png](filtro_documento.png)
+
+   - Ao clicar no ícone "PDF" para abrir e realizar o download do documento ao clicar no link do mesmo. 
+   
+   ![image.png](arquivos.png)
+
+  
  - ## Lista de Presença  ![image.png](image%201.png)
    Esta sessão esta destinada as aplicação para registro e controle  de lista de presença, em treinamentos , DDS, Certificações, palestras, eventos corporativos e afins.
 

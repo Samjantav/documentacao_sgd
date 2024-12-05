@@ -25,6 +25,7 @@
 - Na parte da tela inicial temos acesso os cadastros Auxiliares , que são:
 
 - **Cadastros de Residuos** ![image.png](cad_residuos.png)
+a
 - **Descrição** : Aplicação para cadastro do tipo de registro de residuo.
 
 ![image.png](novo_registro.png)
