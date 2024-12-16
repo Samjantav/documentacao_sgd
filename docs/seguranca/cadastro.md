@@ -132,38 +132,6 @@ necessários.
         
 #### **Botões Auxiliares - Temos 4 botões na parte de baixo da tela onde temos 4 Aplicações (Liberações, Restar Assinatura. Assinaturas Pendentes, Copiar Permissões)**
 
-##### **Liberações**:
-
-- **Descrição**: Permite visualizar o histórico de permissões e ajustes de acesso de um usuário.
-
-- **Uso**: Clicar neste botão exibe uma lista detalhada das permissões e liberações de acesso concedidas ao usuário, útil para auditorias de segurança.
-
-##### **Restar Assinatura**:
-
-- **Descrição**: Opção para redefinir a senha de um usuário.
-
-- **Uso**: Clique em "Restar Assinatura" para enviar uma nova senha ao colaborador.
-
-##### **Assinaturas Pendentes**:
-
-- **Descrição**: Lista as assinaturas digitais pendentes de cada usuário.
-
-- **Uso**: Este botão exibe um painel com todas as assinaturas ainda não completadas, garantindo que todas estejam atualizadas.
-
-##### **Copiar Permissões**:
-
-- **Descrição**: Copia as permissões de um usuário para outro.
-
-- **Passo a Passo**:
-
-- Acesse "Copiar Permissões".
-
-- Selecione o usuário de origem.
-
-- Escolha o usuário de destino para replicar as permissões.
-
-###### **Dica**: Útil ao adicionar novos colaboradores que precisam das mesmas permissões de um usuário já existente.
-    
 <label for ="modal-toggle-8">
 ![image.png](image%208.png)
 </label>
@@ -172,6 +140,12 @@ necessários.
 <label for="modal-toggle-8" class="close">&times;</label>
 <img src="/seguranca/image%208.png" alt="Imagem Ampliada">
 </div>
+
+##### **Liberações**:
+
+- **Descrição**: Permite visualizar o histórico de permissões e ajustes de acesso de um usuário.
+
+- **Uso**: Clicar neste botão exibe uma lista detalhada das permissões e liberações de acesso concedidas ao usuário, útil para auditorias de segurança.
 
 <label for="modal-toggle-9">
 ![image.png](image%209.png)
@@ -186,6 +160,12 @@ necessários.
 Exibe o histórico de liberações de acesso e permissões do usuário. 
 
 
+##### **Restar Assinatura**:
+
+- **Descrição**: Opção para redefinir a senha de um usuário.
+
+- **Uso**: Clique em "Restar Assinatura" para enviar uma nova senha ao colaborador.
+
 <label for="modal-toggle-10">
 ![image.png](image%2010.png)
 </label>
@@ -196,6 +176,12 @@ Exibe o histórico de liberações de acesso e permissões do usuário.
 </div>
 
  Reset a senha de acesso do usuário ao Sistema
+
+##### **Assinaturas Pendentes**:
+
+- **Descrição**: Lista as assinaturas digitais pendentes de cada usuário.
+
+- **Uso**: Este botão exibe um painel com todas as assinaturas ainda não completadas, garantindo que todas estejam atualizadas.
 
 <label for ="modal-toggle-11">
 ![image.png](image%2011.png)
@@ -208,6 +194,18 @@ Exibe o histórico de liberações de acesso e permissões do usuário.
 
 Exibe as assinaturas pendentes destinadas ao Usuário
 
+##### **Copiar Permissões**:
+
+- **Descrição**: Copia as permissões de um usuário para outro.
+
+- **Passo a Passo**:
+
+- Acesse "Copiar Permissões".
+
+- Selecione o usuário de origem.
+
+- Escolha o usuário de destino para replicar as permissões.
+
 <label for="modal-toggle-12">
 ![image.png](d45d648f-2846-4087-b49c-6d678f14c100.png)
 </label>
@@ -217,4 +215,7 @@ Exibe as assinaturas pendentes destinadas ao Usuário
 <img src="/seguranca/d45d648f-2846-4087-b49c-6d678f14c100.png" alt="Imagem Ampliada">
 </div>
 
-Copia as permissões designadas a outro usuário. 
+Copia as permissões designadas a outro usuário.
+
+###### **Dica**: Útil ao adicionar novos colaboradores que precisam das mesmas permissões de um usuário já existente.
+    

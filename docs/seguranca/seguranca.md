@@ -119,6 +119,14 @@ Esta seção orienta o administrador na criação, edição e gestão de usuári
         </div>
         
 - **Botões Auxiliares - Temos 4 botões na parte de baixo da tela onde temos 4 Aplicações ( Liberações , Resetar Assinatura . Assinaturas Pendentes , Copiar Permissões )**
+        <label for ="modal-toggle-8">
+        ![image.png](image%208.png)
+        </label>
+        <input type="checkbox" id="modal-toggle-8" style="display:none;">
+        <div class="modal">
+        <label for="modal-toggle-8" class="close">&times;</label>
+        <img src="/seguranca/image%208.png" alt="Imagem Ampliada">
+        </div>
 
     - **Liberações**
 
@@ -126,17 +134,50 @@ Esta seção orienta o administrador na criação, edição e gestão de usuári
 
         - **Uso**: Clicar neste botão exibe uma lista detalhada das permissões e liberações de acesso concedidas ao usuário, útil para auditorias de segurança.
 
+        <label for="modal-toggle-9">
+        ![image.png](image%209.png)
+        </label>
+        <input type="checkbox" id="modal-toggle-9" style="display:none;">
+        <div class="modal">
+        <label for="modal-toggle-9" class="close">&times;</label>
+        <img src="/seguranca/image%209.png" alt="Imagem Ampliada">
+        </div>
+
+    Exibe o histórico de liberações de acesso e permissões do usuário. 
+
     - **Resetar Assinatura**
 
         - **Descrição**: Opção para redefinir a senha de um usuário.
 
         - **Uso**: Clique em "Resetar Assinatura" para enviar uma nova senha ao colaborador.
 
+        <label for="modal-toggle-10">
+        ![image.png](image%2010.png)
+        </label>
+        <input type="checkbox" id="modal-toggle-10" style="display:none;">
+        <div class="modal">
+        <label for="modal-toggle-10" class="close">&times;</label>
+        <img src="/seguranca/image%210.png" alt="Imagem Ampliada">
+        </div>
+    
+    Reseta a senha de acesso do usuário ao Sistema
+
     - **Assinaturas Pendentes**
 
         - **Descrição**: Lista as assinaturas digitais pendentes de cada usuário.
 
         - **Uso**: Este botão exibe um painel com todas as assinaturas ainda não completadas, garantindo que todas estejam atualizadas.
+
+           <label for ="modal-toggle-11">
+            ![image.png](image%2011.png)
+            </label>
+            <input type="checkbox" id="modal-toggle-11" style="display:none;">
+            <div class="modal">
+            <label for="modal-toggle-11" class="close">&times;</label>
+            <img src="/seguranca/image%2011.png" alt="Imagem Ampliada">
+            </div>
+    
+    Exibe as Assinatura pendentes destinadas ao Usuário 
 
     - **Copiar Permissões**
 
@@ -150,51 +191,19 @@ Esta seção orienta o administrador na criação, edição e gestão de usuári
 
             - Escolha o usuário de destino para replicar as permissões.
 
-        - **Dica**: Útil ao adicionar novos colaboradores que precisam das mesmas permissões de um usuário já existente.
+        <label for="modal-toggle-12">
+        ![image.png](d45d648f-2846-4087-b49c-6d678f14c100.png)
+        </label>
+        <input type="checkbox" id="modal-toggle-12" style="display:none;">
+        <div class="modal">
+        <label for="modal-toggle-12" class="close">&times;</label>
+        <img src="/seguranca/d45d648f-2846-4087-b49c-6d678f14c100.png" alt="Imagem Ampliada">
+        </div>
     
+    Copia as permissões desiguinadas a um outro usuário 
 
-    <label for ="modal-toggle-8">
-    ![image.png](image%208.png)
-    </label>
-    <input type="checkbox" id="modal-toggle-8" style="display:none;">
-    <div class="modal">
-    <label for="modal-toggle-8" class="close">&times;</label>
-    <img src="/seguranca/image%208.png" alt="Imagem Ampliada">
-    </div>
-
-    <label for="modal-toggle-9">
-    ![image.png](image%209.png)
-    </label>
-    <input type="checkbox" id="modal-toggle-9" style="display:none;">
-    <div class="modal">
-    <label for="modal-toggle-9" class="close">&times;</label>
-    <img src="/seguranca/image%209.png" alt="Imagem Ampliada">
-    </div>
-
-    Exibe o histórico de liberações de acesso e permissões do usuário. 
-
-    <label for="modal-toggle-10">
-    ![image.png](image%2010.png)
-    </label>
-    <input type="checkbox" id="modal-toggle-10" style="display:none;">
-    <div class="modal">
-    <label for="modal-toggle-10" class="close">&times;</label>
-    <img src="/seguranca/image%210.png" alt="Imagem Ampliada">
-    </div>
-    
-    Reseta a senha de acesso do usuário ao Sistema
-
-    <label for ="modal-toggle-11">
-    ![image.png](image%2011.png)
-    </label>
-    <input type="checkbox" id="modal-toggle-11" style="display:none;">
-    <div class="modal">
-    <label for="modal-toggle-11" class="close">&times;</label>
-    <img src="/seguranca/image%2011.png" alt="Imagem Ampliada">
-    </div>
-    
-    Exibe as Assinatura pendentes destinadas ao Usuário 
-
+    - **Dica**: Útil ao adicionar novos colaboradores que precisam das mesmas permissões de um usuário já existente.
+     
     <label for="modal-toggle-12">
     ![image.png](d45d648f-2846-4087-b49c-6d678f14c100.png)
     </label>

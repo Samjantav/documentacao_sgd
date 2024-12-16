@@ -358,58 +358,169 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
    
    ![image.png](arquivos.png)
 
- - ## Auditoria Interna ![image.png](auditoria.png)
+## Auditoria Interna ![image.png](auditoria.png)
 
   Sub-menu para a pré-auditoria da empresa.
 
    - ### Pré-Auditoria ![image.png](pre-auditoria.png)
 
-   - **Descrição** : Aplicação para pré-auditoria da empresa.
+   - **Descrição** : Aplicação para pré-auditoria da empresa.Gestão e preparação de documentos pré auditoria.
+
+   ![image.png](pre_auditoria_inicio.png)
 
    - **Passo a Passo** : 
 
+    - Ao clicar no botão "NOVO" abre uma nova janela para registro de um novo.
+
+     ![image.png](inserir_titulo_pre_auditoria.png)
+
+    - Ao clicar no botão "PESQUISA" abre um novo filtro para pesquisa de documentos.
+
+     ![image.png](filtro_pre_auditoria.png)
+
+    - Ao clicar no icone de edição abre uma janela para edição do documento.
+
+     ![image.png](edicao_pre_auditoria.png)
+
+    - Abre um segunda Aba para inclusão dos itens e normas ao serem editados ao clicar no botão ![image.png](normas_auditadas.png)
+
+     ![image.png](normas_auditadas_1.png)
+
+    - Ao Clicar no botão "Inserir Item" 
+
+     ![image.png](inserir_item.png)
+
+    - Ao clicar no icone de edição abre uma janela para edição do documento.
+  
+     ![image.png](auditoria_item.png)
+
+    - Ao clicar em "Salvar ou Sair " volta a pagina inicial da pré-auditoria
+
+    ![image.png](pre_auditoria_inicio.png)
+
+    - Ao clicar > Abre o detalhe do titulo da pré-auditoria.
+
+    ![image.png](detalhes_titulos.png)
+  
+
    - ### Cadastrar Norma/Iso ![image.png](cadastro_norma_iso.png)
 
-   - **Descrição**: Realiza o cadastro das normas e issos da empresa.
+   - **Descrição**: Realiza o cadastro das normas e isos da empresa.
+   Aplicação abre em filtro para pesquisa de normas e isos.
+
+   ![image.png](cadastrar_norma_iso.png)
 
    - **Passo a Passo** :
 
-   - ### Cadastros Auxiliares ![image.png](cadastros_auxiliares.png)
+   - Ao preencher os paramentros da pesquisa se abrirá a tela de cadastro da norma ou iso.
+
+   ![image.png](identificacao_norma%20%20-%20Copia.png)
+   
+   - Ao clicar no botão novo, podera realizar o cadastro de uma seção ou parte da norma/iso a ser auditada.
+
+   ![image.png](cadastro_secao_norma.png)
+
+   - Ao clicar no icone de edição , podera realizar as alterações necessárias na seção ou parte da norma/iso
+   
+   ![image.png](edicao_parte_norma.png)
+
+ - Se possuir evidencia ao salvar a seção ou parte da norma/iso, se abrirá um modal para o cadastro da mesma 
+
+   ![image.png](reg_evidencia.png)
+
+ - Apos incluir o registro da Evidencia , precione o botão voltar e retorne a parte anterior.
+
+   ![image.png](atualiza_part_norma.png)
+
+ - Assim aparecerá o icone de evidencia ao clicar sobre o mesmo poderá visualizar ou editar a evidencia.
+
+
+   - ### Cadastros Auxiliares ![image.png](cadastros_auxiliar.png)
 
    - **Descrição**: Realiza o cadastro dos cadastros auxiliares referente a pré auditoria
 
-   - **Passo a Passo** :
-
       - #### Norma/Iso ![image.png](norma_iso.png)
 
-      - **Descrição**: Realiza o cadastro das normas e issos da empresa.
+      - **Descrição**: Realiza o cadastro das normas e isos da empresa.
 
-      - **Passo a Passo** :
+      ![image.png](cad_norma_iso.png)
 
+      - **Passo a Passo** : 
+      
+      - Ao clicar no botão novo se abrirá um modal para um cadastro de um nova norma ou iso.
+
+      ![image.png](incluir_norma.png)
+
+      - Ao clicar no icone de edição , podera realizar as alterações necessárias na norma ou iso.
+      
+      ![image.png](edit_norma.png)
+      
 
       - #### Capítulo/Seção ![image.png](capitulo.png)
 
-      - **Descrição**: Realiza o cadastro dos capítulos e seções da empresa.
 
-      - **Passo a Passo** :
+      - **Descrição**: Realiza o cadastro dos capítulos e seções.
 
-      - #### Clásula ![image.png](clausula%20.png)
-
-      - **Descrição** : 
+      ![image.png](inserir_capitulo.png)
 
       - **Passo a Passo** : 
 
+      - Ao clicar no botão novo se abrirá um modal para um cadastro de um nova capitulo ou seção.
+      
+      ![image.png](cad_capitulo.png)
+      
+      - Ao clicar no icone de edição , podera realizar as alterações necessárias no capitulo 
+      ou seção.
+
+      ![image.png](edit_capitulo.png)
+
+      - #### Clásula ![image.png](clausula%20.png)
+
+      - **Descrição** : Realiza o cadastro das clausulas
+
+      ![image.png](requisitos_pag.png)
+
+      - **Passo a Passo** : 
+
+       - Ao clicar no botão novo se abrirá um modal para um cadastro de um nova clausula.
+
+      ![image.png](cad_clausula.png)
+
+      - Ao clicar no icone de edição se abrirá um modal para edição de um clausula.
+
+      ![image.png](edit_clausula.png)
+     
+
       - #### Requisito ![image.png](requisito.png)
 
-      - **Descrição**  :
+      - **Descrição**  : Reliaza o cadastro dos requisitos
 
       - **Passo a Passo**  :
 
-      - #### Subrequisito 
+       - Ao clicar no botão novo se abrirá um modal para um cadastro de um novo requisito.
 
-      - **Descrição** :
+      ![image.png](cad_requisito.png)
 
-      -
+      - Ao clicar no icone de edição se abrirá um modal para a edição do requisito.
+
+      ![image.png](edit_requisito.png)
+
+      - #### Subrequisito ![image.png](sub-requisito_icon.png)
+
+      - **Descrição** : Realiza o cadastro dos sub-requisitos.
+
+      ![image.png](sub_requisitos.png)
+
+      - **Passo a Passo**  : 
+
+      - Ao clicar no botão novo se abrirá um modal para um cadastro de um novo sub-requisito.
+
+      ![image.png](cad_sub-requesito.png)
+
+      - Ao clicar no icone de edição se abrirá um modal para a edição do sub-requisito.
+
+      ![image.png](edit_sub_requisitos.png)
+
 
   
  - ## Lista de Presença  ![image.png](image%201.png)
@@ -527,6 +638,7 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
         - #### Edição - Botão localizar registros ![image.png](localizar.png)
         
         Se abre uma consulta onde se tem acesso aos registros já criador com suas informação principais e status onde em cada registro se tem acesso ao formulario para ediçao e tratativas adicionais e tambem a opção de coletar as assinatuturas biometricas da lista
+
         <label for="modal-toggle-6">
         ![image.png](consulta-lista.png)
         </label>
