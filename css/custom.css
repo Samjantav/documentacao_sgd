@@ -5,16 +5,17 @@
   color: #ffffff !important;
 }
 .drac-bg-purple-cyan {
-  background: linear-gradient(var(--gradientDegree), #508be2 0, #508be2 100%) !important;
+  background: linear-gradient(var(--gradientDegree),  #06139d  0 ,  #3085d6  100%) !important;
 }
+
 .drac-bg-purple {
-  background-color: #508be2 !important;
+  background: linear-gradient(var(--gradientDegree),   #06139d  0 ,  #3085d6  100%) !important;
 }
 .drac-bg-cyan-green {
-  background: linear-gradient(var(--gradientDegree), #508be2 0, #508be2 100%) !important;
+  background: linear-gradient(var(--gradientDegree), #06139d 10 , #3085d6  100%) !important;
 }
 .drac-scrollbar-purple {
-  --drac-scrollbar-bg: transparent;
+  --drac-scrollbar-bg: #adf !important;
   --drac-scrollbar-border: var(--purpleLight);
   --drac-scrollbar-thumb: #0d6efd !important;
   --drac-scrollbar-thumb-hover: #3983f1 !important;
@@ -44,7 +45,7 @@ img {
   transition: opacity 0.3s ease-in-out !important;
 }
 
-input[id^="modal-toggle"]:checked ~ .modal {
+body input[id^="modal-toggle"]:checked ~ .modal {
   display: flex !important;
   opacity: 1 !important;
 }
@@ -85,6 +86,16 @@ input[id^="modal-toggle"]:checked ~ .modal {
 .highlight-box a:hover {
   text-decoration: underline !important;
 }
+.drac-bg-black {
+  background: linear-gradient(var(--gradientDegree),  #06139d  0 ,  #3085d6  100%) !important;
+}
+/*
+.drac-bg-black-secondary { 
+  --accentColor: #05109f !important;
+  background: linear-gradient(var(--gradientDegree),   #0d54eee8  0 ,  #3085d6  100%) !important;
+}
+/*
 
-
-
+.drac-bg-black {
+  background: linear-gradient(var(--gradientDegree),   #0d54eee8  0 ,  #3085d6  100%) !important;
+}
