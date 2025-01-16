@@ -9,20 +9,22 @@ Esta seção orienta o administrador na criação, edição e gestão de usuári
     
     #### Inclusão de Novo Usuário
     
-    - **Descrição**: Criação de um novo usuário , onde pode ser manual ou pelo  processo de criação automática de um usuário quando ele é integrado ao treinamento.
+    - **Descrição**: Criação de um novo usuário, onde pode ser manual ou pelo processo de criação automática de um usuário quando ele é integrado ao treinamento.
     - **Passo a Passo**:
-        - Vá até a botão  "Novo".
-        - Insira as informações do cadastro , caso ele seja feito manualmente  ou somente validade caso venha da inclusão automatica
+        - Vá até o botão "Novo".
+        - Insira as informações do cadastro, caso ele seja feito manualmente ou somente valide caso venha da inclusão automática.
         - Clique em **"Incluir Novo Usuário"**.
         - O sistema automaticamente gerará o perfil do novo usuário com permissões básicas.
     - **Dicas**: Verifique se o usuário foi adicionado ao grupo correto, e revise suas permissões para garantir acesso aos recursos necessários.
+   
+    
     <label for="modal-toggle-1">
     ![image.png](image%201.png)
     </label>
     <input type="checkbox" id="modal-toggle-1" style="display:none;">
     <div class="modal">
     <label for="modal-toggle-1" class="close">&times;</label>
-    <img src="/seguranca/image%201.png" alt="Imagem Ampliada">
+    <img src="image%201.png" alt="Imagem Ampliada">
     </div>
 
 - ### Edição - Nesta tela teremos a edição dos dados do colaborador, suas permissões de acesso e visualização no sistema
@@ -41,7 +43,7 @@ Esta seção orienta o administrador na criação, edição e gestão de usuári
 
         - Clique em "Salvar" para aplicar as alterações.
 
-    - **Nota**: Esta funcionalidade é útil para atualizações de dados do usuário ,unidade de acesso e liberação , ou ajuste de acessos por parte dos administradores.
+    - **Nota**: Esta funcionalidade é útil para atualizações de dados do usuário, unidade de acesso e liberação, ou ajuste de acessos por parte dos administradores.
     
     
     <label for="modal-toggle-2">
@@ -90,18 +92,18 @@ Esta seção orienta o administrador na criação, edição e gestão de usuári
             <label for ="modal-toggle-5">
             ![image.png](image%205.png)
             </label>
-            <input type="checkbox" id="modal-toggle-5" style ="display:none;">
+            <input type="checkbox" id="modal-toggle-5" style="display:none;">
             <div class="modal">
             <label for="modal-toggle-5" class="close">&times;</label>
             <img src="/seguranca/image%205.png" alt="Imagem Ampliada">
             </div>
             
-    - **Assinatura :  Mostra a Assinatura digital do usuário  e data e hora de sua inclusão**
+    - **Assinatura :  Mostra a Assinatura digital do usuário e data e hora de sua inclusão**
         
         <label for ="modal-toggle-6">
         ![image.png](image%206.png)
         </label>
-        <input type="checkbox" id="modal-toggle-6" style ="display:none;">
+        <input type="checkbox" id="modal-toggle-6" style="display:none;">
         <div class="modal">
         <label for="modal-toggle-6" class="close">&times;</label>
         <img src="/seguranca/image%206.png" alt="Imagem Ampliada">
@@ -157,7 +159,7 @@ Esta seção orienta o administrador na criação, edição e gestão de usuári
         <input type="checkbox" id="modal-toggle-10" style="display:none;">
         <div class="modal">
         <label for="modal-toggle-10" class="close">&times;</label>
-        <img src="/seguranca/image%210.png" alt="Imagem Ampliada">
+        <img src="/seguranca/image%2010.png" alt="Imagem Ampliada">
         </div>
     
     Reseta a senha de acesso do usuário ao Sistema
@@ -177,7 +179,7 @@ Esta seção orienta o administrador na criação, edição e gestão de usuári
             <img src="/seguranca/image%2011.png" alt="Imagem Ampliada">
             </div>
     
-    Exibe as Assinatura pendentes destinadas ao Usuário 
+    Exibe as Assinaturas pendentes destinadas ao Usuário 
 
     - **Copiar Permissões**
 
@@ -200,7 +202,7 @@ Esta seção orienta o administrador na criação, edição e gestão de usuári
         <img src="/seguranca/d45d648f-2846-4087-b49c-6d678f14c100.png" alt="Imagem Ampliada">
         </div>
     
-    Copia as permissões desiguinadas a um outro usuário 
+    Copia as permissões designadas a um outro usuário 
 
     - **Dica**: Útil ao adicionar novos colaboradores que precisam das mesmas permissões de um usuário já existente.
      
@@ -213,7 +215,7 @@ Esta seção orienta o administrador na criação, edição e gestão de usuári
     <img src="/seguranca/d45d648f-2846-4087-b49c-6d678f14c100.png" alt="Imagem Ampliada">
     </div>
     
-    Copia as permissões desiguinadas a um outro usuário 
+    Copia as permissões designadas a um outro usuário 
     
 ---
 
@@ -244,15 +246,15 @@ Os Grupos de Usuários definem níveis de acesso e permissões para conjuntos de
 
 ![image.png](editar_grupo.png)
 
-- Ao clicar no icone de "EDIÇÃO" a esquerda do Grupo ID se abre um modal para edição do grupo e aba para Inativar ou Atividar dicho grupo.
+- Ao clicar no ícone de "EDIÇÃO" à esquerda do Grupo ID se abre um modal para edição do grupo e aba para Inativar ou Ativar dito grupo.
 
 ![image.png](atualiza_grupo.png)
 
--  Ao clicar no icone  "USUÁRIOS" se abre um modal com o login e nome dos usuarios designados para o grupo.
+-  Ao clicar no ícone "USUÁRIOS" se abre um modal com o login e nome dos usuários designados para o grupo.
 
 ![image.png](usuarios.png)
 
-- Ao cliclar no icone  "APLICAÇÕES" se abre um modal com as aplicações inclusas neste grupo.
+- Ao clicar no ícone "APLICAÇÕES" se abre um modal com as aplicações inclusas neste grupo.
 
 ![image.png](aplica.png)
 
@@ -260,7 +262,7 @@ Os Grupos de Usuários definem níveis de acesso e permissões para conjuntos de
 
 ## Aplicações ![image.png](image%2014.png)
     
-As aplicações são cadastradas no sistema para que possa ser definidos seus grupos , o tipo de aplicativo como Blank (pagina html) , Cons (Consulta / grid ), form (formulario) , contr (Aplicação de controle).
+As aplicações são cadastradas no sistema para que possam ser definidos seus grupos, o tipo de aplicativo como Blank (página html), Cons (Consulta / grid), form (formulário), contr (Aplicação de controle).
     
 - **Descrição**: As aplicações são módulos específicos dentro do sistema, como formulários, grids e páginas de controle, onde podem ser definidas permissões de acesso.
 
@@ -296,7 +298,7 @@ As aplicações são cadastradas no sistema para que possa ser definidos seus gr
 ## Grupo de aplicações ![image.png](image%2017.png)
 
     
-Os grupos de aplicações criam grupos para organizar as aplicações por grupo de afinidade e proposito 
+Os grupos de aplicações criam grupos para organizar as aplicações por grupo de afinidade e propósito.
     
 - **Descrição**: Os grupos de aplicações permitem organizar as aplicações por propósito, facilitando a gestão e a configuração de acessos para grupos específicos de usuários.
 
@@ -330,13 +332,13 @@ Os grupos de aplicações criam grupos para organizar as aplicações por grupo 
 
 ## Usuários para grupo ![image.png](image%2020.png)
 
-- **Descrição :** Retorna os usuários cadastrado em cada grupo de usuários
+- **Descrição :** Retorna os usuários cadastrados em cada grupo de usuários
 
 - **Passo a passo :**
 
-    - Acesse o filtro onde será inserido o nome do grupo a qual ser consultado.
+    - Acesse o filtro onde será inserido o nome do grupo a ser consultado.
 
-    - Será  exibido os usuários presentes no grupo
+    - Será exibido os usuários presentes no grupo
     
 <label for="modal-toggle-22">
 ![image.png](image%2021.png)
@@ -352,7 +354,7 @@ Os grupos de aplicações criam grupos para organizar as aplicações por grupo 
 
 ## Aplicações para Grupo ![image.png](image%2022.png)
 
-- **Descrição :** Aqui são designados as aplicações para os grupos de Usuário , nesta aplicação se pode dar e retirar acesso e restringuir permissões do grupo nas aplicações
+- **Descrição :** Aqui são designadas as aplicações para os grupos de Usuário, nesta aplicação se pode dar e retirar acesso e restringir permissões do grupo nas aplicações
 
 - **Passo a passo :**
 
@@ -360,13 +362,13 @@ Os grupos de aplicações criam grupos para organizar as aplicações por grupo 
 
         - “Nome do Grupo de Usuários
 
-        - “Se o grupo possui acesso ou não a Aplicação”
+        - “Se o grupo possui acesso ou não à Aplicação”
 
         - “Grupo da Aplicação “
 
         - “Aplicação “
 
-        - “Aplicação Geral( Caso seja uma aplicação Pai)”
+        - “Aplicação Geral (Caso seja uma aplicação Pai)”
         
 <label for="modal-toggle-24">
 ![image.png](image%2023.png)
@@ -422,7 +424,7 @@ Regras de Negócios são regras específicas configuradas para controlar o acess
 
 ## Apps x Permissões ![image.png](image%2027.png)
 
-- **Descrição :** Consulta generalizada que traz as informações sobre os grupos de aplicações , nome da aplicação e grupo de usuário
+- **Descrição :** Consulta generalizada que traz as informações sobre os grupos de aplicações, nome da aplicação e grupo de usuário
 
 - **Passo a Passo :** Acesse o filtro e insira as informações a serem consultadas
 
@@ -438,15 +440,15 @@ Regras de Negócios são regras específicas configuradas para controlar o acess
 ---
 ## Envio E-mail ![image.png](image%2029.png)
 
-- **Descrição :** A aplicação e um sub - menu  onde se deriva em 3 aplicação sendo elas :
+- **Descrição :** A aplicação é um sub-menu onde se deriva em 3 aplicações sendo elas :
 
-### Contas de E- mail ![image.png](image%2030.png)
+### Contas de E-mail ![image.png](image%2030.png)
 
-- **Descrição**:  os cadastros do usuários e os grupos para envio de e-mail
+- **Descrição**:  os cadastros dos usuários e os grupos para envio de e-mail
 
 - **Passo a passo** :
 
-- Acesse o botão “Novo”  e preencha o formulários com os dados para configuração do envio do e-mail através do sistema
+- Acesse o botão “Novo” e preencha o formulário com os dados para configuração do envio do e-mail através do sistema
 
 <label for="modal-toggle-32">
 ![image.png](image%2031.png)
@@ -457,7 +459,7 @@ Regras de Negócios são regras específicas configuradas para controlar o acess
 <img src="/seguranca/image%2031.png" alt="Imagem Ampliada">
 </div>
 
-- Acesse o botão “Editar ”   e preencha o formulários com os dados para configuração do envio do e-mail através do sistema
+- Acesse o botão “Editar” e preencha o formulário com os dados para configuração do envio do e-mail através do sistema
 
 <label for="modal-toggle-33">
 ![image.png](image%2032.png)
@@ -484,7 +486,7 @@ Regras de Negócios são regras específicas configuradas para controlar o acess
 
 - **Passo a passo :**
 
-- Acesse o botão “ Novo”  onde será configurado , notificação , descrição e perfis de e-mail usados
+- Acesse o botão “Novo” onde será configurado, notificação, descrição e perfis de e-mail usados
 
 - Acesse o botão editar para editar os registros já configurados.
 
@@ -518,9 +520,9 @@ Regras de Negócios são regras específicas configuradas para controlar o acess
 
 ### Pessoas por notificação ![image.png](image%2038.png)
 
-- **Descrição :** gerencia as pessoas que irão receber os e-mail pelo tipo de notificação cadastradas
+- **Descrição :** gerencia as pessoas que irão receber os e-mails pelo tipo de notificação cadastradas
 
-- **Passo a passo :**  clique no ícone de pessoas onde será aberta um formulário para inserção das pessoas pelo tipo de notificação
+- **Passo a passo :**  clique no ícone de pessoas onde será aberto um formulário para inserção das pessoas pelo tipo de notificação
 
 <label for="modal-toggle-40">
 ![image.png](image%2039.png)
@@ -544,7 +546,7 @@ Regras de Negócios são regras específicas configuradas para controlar o acess
 
 ## Usuários logados ![image.png](image%2041.png)
 
-- **Descrição** : Aplicação que retorna os registro de login dentro do sistema
+- **Descrição** : Aplicação que retorna os registros de login dentro do sistema
 
 <label for="modal-toggle-43">
 ![image.png](image%2042.png)
@@ -559,7 +561,7 @@ Regras de Negócios são regras específicas configuradas para controlar o acess
 
 ## Log do Sistema ![image.png](image%2043.png)
 
-- Descrição : Retorna os log do sistema, que pode ser consultado por vários parâmetros.
+- **Descrição** : Retorna os logs do sistema, que podem ser consultados por vários parâmetros.
 
 <label for="modal-toggle-45">
 ![image.png](image%2044.png)
@@ -590,7 +592,7 @@ Regras de Negócios são regras específicas configuradas para controlar o acess
 
 ## Versionamento ![image.png](image%2047.png)
     
-**Descrição :** Sub - menu onde ser registra as alteração no sistema
+**Descrição :** Sub-menu onde se registra as alterações no sistema
 
 ### Registrar Alterações ![image.png](image%2048.png)
 
@@ -598,7 +600,7 @@ Regras de Negócios são regras específicas configuradas para controlar o acess
 
 - **Passo a passo :**
 
-- Clique no botão Versionar  onde se abrirá o formulário para registros das alteração nas aplicações do chamado aberto
+- Clique no botão Versionar onde se abrirá o formulário para registros das alterações nas aplicações do chamado aberto
 
 <label for="modal-toggle-50">
 ![image.png](image%2049.png)
@@ -620,7 +622,7 @@ Regras de Negócios são regras específicas configuradas para controlar o acess
         
 ### Versionar ![image.png](image%2051.png)
 
-- Descrição : Versiona toda o sistema e uma nova versão
+- **Descrição** : Versiona todo o sistema e uma nova versão
 
 <label for="modal-toggle-53">
 ![image.png](image%2052.png)
@@ -633,7 +635,7 @@ Regras de Negócios são regras específicas configuradas para controlar o acess
 
 ### Histórico de Versões** ![image.png](image%2053.png)
 
-- **Descrição :**  Verifica os versionamento realizados em cada aplicação ou tabela
+- **Descrição :**  Verifica os versionamentos realizados em cada aplicação ou tabela
 
 <label for="modal-toggle-55">
 ![image.png](image%2054.png)
@@ -647,7 +649,7 @@ Regras de Negócios são regras específicas configuradas para controlar o acess
 --- 
 ## SMS ![image.png](image%2055.png)
     
-Descrição : API que realiza o envio de SMS via sistema seja de notificação ou de reset de Senhas - Retorna um Gráfico com o resumo total de envio de SMS. 
+**Descrição** : API que realiza o envio de SMS via sistema seja de notificação ou de reset de Senhas - Retorna um Gráfico com o resumo total de envio de SMS. 
 
 <label for="modal-toggle-57">
 ![image.png](image%2056.png)
@@ -656,5 +658,6 @@ Descrição : API que realiza o envio de SMS via sistema seja de notificação o
 <div class="modal">
 <label for="modal-toggle-57" class="close">&times;</label>
 <img scr="/seguranca/image%2056.png" alt="Imagem Ampliada">
+</div>
     
 ---

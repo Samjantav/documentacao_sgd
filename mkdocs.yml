@@ -51,6 +51,14 @@ nav:
           - 🆔 Cláusula: sgi/clausula.md
           - 🛡️ Requisito : sgi/requisito.md
           - 🎯 Subrequisito : sgi/sub_requisito.md 
+      - 📝​ Solicitação de Processos : sgi/solicitacao_processo.md
+      - 📊 Matriz de Risco :
+        - 📊 Analise de Riscos : sgi/analise_riscos.md
+        - 🗒️ Categorias : sgi/categoria_risco.md
+      - 📋 Ata de Reuniões :
+        - 📝 Reuniões : sgi/registrar_reuniao.md
+        - 📚 Títulos : sgi/titulos.md
+        - 📅 Relatorios - Assinaturas Pendentes: sgi/relatorios_assinatura.md   
       - 🗒️ Lista de Presença :
         - ✏️ Registrar : sgi/registrar.md
         - 📆 Cronograma de Treinamento : sgi/cronograma.md
@@ -92,8 +100,8 @@ theme:
 extra_css:
   - css/custom.css
 extra_javascript:
-  - assets/js/lightbox-plus-jquery.js
-  - assets/js/checklists.js
+- assets/js/lightbox-plus-jquery.js
+- assets/js/checklists.js
 markdown_extensions:
   - attr_list
   - full_yaml_metadata
@@ -103,5 +111,6 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.snippets
+  - pymdownx.inlinehilite
 plugins:
   - search

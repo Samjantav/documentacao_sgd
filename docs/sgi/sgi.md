@@ -521,8 +521,127 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
 
       ![image.png](edit_sub_requisitos.png)
 
+ - ## Solicitação de Processos ![image.png](solicitacao_processos.png)
 
+   - **Descrição** :
+   
+   Esta sessão esta destinada as aplicações de novos processos, procedimentos e fluxos de trabalho. A mesma abre um sub menu referente as etapas da criação a validação de novos processos.
+   - Solicitação (Aqui se faz a solicitação de um novo processo)
+   - Compliance  (Validação do Departamento de Compliance)
+   - SGI         (Validação do Departamento de Gestão Integrada)
+   - Diretoria   (Validação da Diretoria)
+   - Relatorio   (Retorna o status de cada Solicitação)
+   - Historico   (Exibe o historico de cada Solicitação)
+
+  ![image.png](solicitacao_processo_menu.png)
+
+   - **Passo a Passo** :
+    
+   - Ao clicar no menu Solicitação, abre uma tela com os campos necessários para a solicitação de um novo processo.
+
+   ![image.png](solicitacao_processo.png)
+
+   - Ao clicar no botão incluir abre uma tela para o preeenchimento de uma nova solicitação 
+
+   ![image.png](cria_processos.png)
   
+  - Ao clicar no botão incluir abre uma tela para o preeenchimento de uma nova solicitação 
+
+   ![image.png](cria_processos.png)
+   
+
+   - Após a solicitação ser criada, ela é enviada para a validação do Departamento de Compliance.
+
+   ![image.png](compilance.png)
+
+
+   ![image.png](valida_compilance.png)
+
+   -  Após a validação do Departamento de Compliance será enviada para o Departamento de Gestão Integrada.
+
+   ![image.png](processos_sgi.png)
+
+
+   ![image.png](valida_sgi.png)
+
+   - Após a validação do Departamento de Gestão Integrada será enviada para a Diretoria.
+
+   ![image.png](processo_diretoria.png)
+
+
+   ![image.png](valida_diretoria.png)
+
+   - Após todas as validações, o processo é criado e é possível visualizar o relatorios  das solicitação
+
+   ![image.png](relatorio_processos.png)
+
+   - Além disso, é possível visualizar o historico de cada solicitação.
+
+   ![image.png](historico_processo.png)
+   
+   - Modelo do PDF do processo finalizado.
+
+   ![image.png](pdfprocesso.png)
+   ![image.png](pdfprocesso2.png)
+   
+
+ - ## Matriz de risco ![image.png](matriz_risco_menu.png)
+   Aplicação destinada a orientar os departamentos junto com o time de complice  em relação a identificação de riscos e a implementação de medidas de mitigação e tratamentos dos mesmos.
+
+    - ### Analise de Riscos ![image.png](matriz_risco_menu.png)
+
+    - **Descrição** : Aplicação destinada a orientar os departamentos junto com o time de complice ,onde se registra os riscos identificados e suas respectivas medidas de mitigação e tratamentos, e realiza os calculos dos riscos atraves dos riscos ou oportunidades (anteriormente chamados de NC). Os mesmo são cadastradps no menu da Monitoria.
+    
+    ![image.png](cadastro_riscos.png)
+
+    A tela inicia da Matriz de analise de riscos 
+
+    ![image.png](analise_riscos.png)
+
+    - **Passo a Passo** :
+
+    - Ao clicar no botão " + NOVO", se abre um formulário para cadastrar um titulo.
+
+    ![image.png](titulo_risco.png)
+
+    - Após incluir o titulo se abre uma nova aba no formulário para incluir os riscos já cadastrados. 
+
+    ![image.png](riscos_analise2.png)
+    ![image.png](riscos_analise.png)
+
+    - Após a inserção dos requisitos os mesmo serão retornados na tela para que possa ser realizados os calculos de riscos.
+
+    ![image.png](riscos_requisitos.png)
+    
+    Ao clicar no icone de edição , abre um modal para realizar os calculos de riscos.
+    
+    ![image.png](calculo_risco.png)
+
+    Após salvar o calculos de riscos, o mesmo é retornado na tela com os resultados.
+
+    ![image.png](riscos_calculados.png)
+
+    - ### Categorias ![image.png](categoria_menu.png)
+    
+    Formulario para cadastrar categorias de riscos e oportunidades.
+
+    ![image.png](categoria_riscos1.png)
+
+    - Ao clicar no botão novo se abre um modal para cadastro de uma nova categoria.
+
+    ![image.png](inclusao_cat.png)
+
+    - Ao clicar no botão salvar, a categoria é cadastrada e retornado na tela.
+
+    - Ao clica no botão Pesquisar abre um modal com o filtro para pesquisar categorias.
+
+    ![image.png](categoria_risos2.png)
+
+    - Ao clicar no icone de edição abre um modal para editar a categoria.
+
+    ![image.png](categorias_riscos3.png)
+
+
  - ## Lista de Presença  ![image.png](image%201.png)
    Esta sessão esta destinada as aplicação para registro e controle  de lista de presença, em treinamentos , DDS, Certificações, palestras, eventos corporativos e afins.
 
