@@ -37,3 +37,9 @@ para salvar a ata de reunião e preciso informar ao sistema que a ata de reuniã
 ![image.png](ata_reuniao_7.png)
 
 Agora sim clique no botão salvar no cabeçalho do formulario para salvar a ata de reunião.
+
+Após salva todas as assinaturas aparecerão para os reponsaveis e participantes para assinar a ata de reunião.
+
+Ao clicar no botão de pesquisar , abre uma tela para visualizar as atas de reunião.
+
+![image.png](pesquisa_reuniao.png)

@@ -690,15 +690,32 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
 
     Após salva todas as assinaturas aparecerão para os reponsaveis e participantes para assinar a ata de reunião.
 
-    
+    Ao clicar no botão de pesquisar , abre uma tela para visualizar as atas de reunião.
+
+    ![image.png](pesquisa_reuniao.png)
+
+
     - ### Titulos ![image.png](titulo_icon.png)
 
+    - Aplicação para cadastro de novos titulos/ Assuntos para a reuniões. 
 
+    ![image.png](titulos_reuniao.png)
 
+    - Ao clicar no botão de novo titulo abre um modal para inclusão de um novo titulo.
+    
+    ![image.png](novo_titulo.png)
+
+  
     - ### Relatorio ![image.png](relatorio_icon.png)
 
-    
+    - Aplicação para visualizar as atas de reunião, que estão com as assinaturas pendentes.
 
+    ![image.png](relata_assinaturas_pendentes.png)
+
+    - Ao clicar no botão pesquisar se abre um modal para poder filtra os paramentros da lista que está com as assinaturas pendentes 
+
+    ![image.png](filtro_reuniao_n_assinada.png)
+    
 
  - ## Lista de Presença  ![image.png](image%201.png)
    Esta sessão esta destinada as aplicação para registro e controle  de lista de presença, em treinamentos , DDS, Certificações, palestras, eventos corporativos e afins.
@@ -1105,6 +1122,31 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
         <a href="http://172.16.9.110:8000/SGD/sgd/#assinaturas-gerais">Veja como é realizada as assinaturas da lista de presença no sistema SGD</a>
         <p>Acesse o MENU SGD e selecione a opção ASSINATURAS GERAIS</p>
         </div>
+
+  - ## Certificação ![image.png](certificado_icon.png)
+   Sub-menu aplicado a certificações dos colaboradores tanto interno quanto externo. 
+
+    - **Acompanhamento**
+    - **Meus Certificados**
+    - **Certificado por Participante**
+    - **Conteudo por certificação**
+    - **Relatorio**
+
+      - ###  Acompanhamento 
+  Aplicação que realiza a validade das certificações dos participantes , onde é possível verificar a validade das certificações e realizar a renovação das mesmas.
+
+  ![image.png](filtro_acompanhamento.png)
+
+  ![image.png](acompanhamento_certificacao.png)
+
+  
+
+
+
+  
+
+  
+      
 
         
 
