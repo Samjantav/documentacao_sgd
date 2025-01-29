@@ -77,6 +77,18 @@ nav:
         - 👷‍♂️ 🏅Certificados por participante : sgi/certificados_participante.md
         - 🧐📖🏅Conteudo por certificação : sgi/conteudo_certificacao.md
         - 📜🏅 Relarório de Certificados : sgi/relatorio_certificados.md
+      - 🕵️ Não Conformidades :
+        - ⚠️ Reincidência: sgi/reincidencia.md
+        - 🔠 Agrupar Monitoria : sgi/agrupar_monitoria.md
+        - 🔎 Regitro N.C : sgi/registro_nc.md
+        - 🔁 Correções : sgi/correcoes.md
+        - ✅ Validação A.C : sgi/validacao_ac.md
+        - 📊 Relatorios : 
+          -  📑 Lista de não conformidades : sgi/lista_nc.md
+          -  👨🏻‍💼 Não conformidade ADM : sgi/nc_adm.md
+          -  🎯 Relatorio Ações : sgi/relatorio_acoes.md
+          -  💢 Relatorio Equivoco: sgi/relatorio_equivoco.md
+          -  ✍🏻 Relatorio de Tratamento : sgi/relatorio_tratamento.md
   -  📦 Almoxarifado: almoxarifado.md
   -  📊 Indicadores: indicadores.md
   -  📢 Comunicação: comunicacao.md

@@ -1132,14 +1132,83 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
     - **Conteudo por certificação**
     - **Relatorio**
 
-      - ###  Acompanhamento 
-  Aplicação que realiza a validade das certificações dos participantes , onde é possível verificar a validade das certificações e realizar a renovação das mesmas.
+      - ###  Acompanhamento ![image.png](acompanha_icon.png) 
+      Aplicação que realiza a validade das certificações dos participantes , onde é possível verificar a validade das certificações e realizar a renovação das mesmas.
 
-  ![image.png](filtro_acompanhamento.png)
+      ![image.png](filtro_acompanhamento.png)
 
-  ![image.png](acompanhamento_certificacao.png)
+      ![image.png](acompanhamento_certificacao.png)
 
-  
+      Ao clicar no botão + Certificação Extrena , é possível adicionar uma nova certificação externa  para o participante pois se abre um modal para cadastro.
+
+    ![image.png](registro_certificacao.png) 
+
+      - ### Meus Certificados ![image.png](meus_certificados_icon.png)
+
+      Aplicação que retorna os certificados de cada colaborador 
+
+      ![image.png](meus_certificados.png)
+
+      - ### Certificado por Participante ![image.png](certificado_participante_icon.png)
+
+      Aplicação para Emissão e consulta de certificado por participante 
+
+      ![image.png](filtro_certificado_participante.png)
+
+      **Descrição**: Aplicação abre em forma de filtro com seguintes campos :
+
+      - Nº form50 (ID do treinamento)
+
+      - Base/Unidade (Base/Unidade do treinamento)
+
+      - Participante (Nome do participante)
+
+      - Titulo (Título do certificado)
+
+      - Status Colaborador (Status do colaborador) Ativo / Inativo
+
+      - Assinado (Assinado pelo colaborador/ Treinamento)
+
+      - Existe Certificado (Existe certificado para o participante)
+    
+      **Observação** :
+
+      - Caso não exista o certificado , se abrirá um formulario onde e possivel incluir o certificado do participante. 
+
+      ![image.png](relata_certificado_incluir.png)
+
+      ![image.png](inserir_certificados.png)
+
+      - Caso o participante já tenha o certificado , se abirá uma grid de certificados do participante, verificando se o mesmo já foi assinado ou não 
+
+      ![image.png](certificados_participante.png)
+
+      ![image.png](certificado_pdf.png)
+
+      ![image.png](Certificado_pdf_2.png)
+
+    - ### Conteudo por Ceritificação ![image.png](conteudo_certificacao_icon.png)
+
+     Aplicação que verifica se os titulos dos treinamentos são adequados para a certificação 
+
+     ![image.png](conteudo_certificacao.png)
+
+     ![image.png](certificado_conteudo.png)
+
+    - ### Relatório ![image.png](relatorio_certificado_icon.png)
+
+    Aplicação que retorna um relatório de certificados emitidos
+
+    ![image.png](relata_certificado1.png)
+
+    ![image.png](relata_certificado2.png)
+
+
+
+
+
+
+
 
 
 
