@@ -30,12 +30,12 @@
 
  - Caso o participante já tenha o certificado , se abirá uma grid de certificados do participante, verificando se o mesmo já foi assinado ou não 
 
-![image.png](certificados_participante.png)
+ ![image.png](certificados_participante.png)
 
-![image.png](certificado_pdf.png)
+ ![image.png](certificado_pdf.png)
 
-![image.png](Certificado_pdf_2.png)
+ ![image.png](Certificado_pdf_2.png)
 
  -  As assinaturas pendentes serão acessadas via o menu de assinaturas gerais no meu de usuario 
 
-![image.png](assinaturas_gerais.png)
+ ![image.png](assinaturas_gerais.png)

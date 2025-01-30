@@ -1189,7 +1189,7 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
 
     - ### Conteudo por Ceritificação ![image.png](conteudo_certificacao_icon.png)
 
-     Aplicação que verifica se os titulos dos treinamentos são adequados para a certificação 
+     Aplicação que verifica se os titulos dos treinamentos são adequados para a certificação.
 
      ![image.png](conteudo_certificacao.png)
 
@@ -1202,6 +1202,162 @@ Menu dedicado as aplicação do departamento de SGI (Sistema de Gestão Integrad
     ![image.png](relata_certificado1.png)
 
     ![image.png](relata_certificado2.png)
+
+  - ## Não conformidades ![image.png](nao_conformidade.png)
+
+    Sub menu com aplicações  destinadas a criação / acompanhamento e tratamento  de não conformidades. 
+
+     - ### Reincidência ![image.png](recidencia_icon.png)
+
+     Relatorio que retorna a quantidade de reciendencia de não conformidades por equipe 
+
+     ![image.png](reincidencia_relata.png)
+
+     Ao clicar no icone de pesquisa se abre um tela com o filtro para passagem dos parametros 
+
+     ![image.png](filtro_reincidencia.png)
+
+
+     - ### Agrupar Monitoria ![image.png](agrupar_monitoria_icon.png)
+
+     Aplicação que retorna a busca das não conformidade de uma equipe em um espaço de tempo(semana de trabalho).
+     Aplicação abre em forma de filtro para passagem dos parametros e busca dos agrupamentos de analise 
+
+     ![image.png](agrupar_filtro.png)
+
+     ![image.png](agrupar_relata.png)
+
+     Ao clicar no icone de edição se abre um modal com as NC analisadas por agupamento 
+
+     ![image.png](agrupar_edit.png)
+
+     ![image.png](agrupar_cadastro.png)
+
+     - ### Registro NC ![image.png](registro_nc_icon.png)
+
+     **Descrição :** 
+
+      Aplicação para consulta , registros , tratativas das não conformidades seja elas operacionais ou administrativas. 
+
+      ![image.png](relatorio_nc.png)
+
+      - Ao a clicar no icone de novo se abrirá um formulario para o cadastro de uma nova não conformidade.
+
+      ![image.png](inclusao_nc.png)   
+
+      Após a Inclusão do titulo da não conformidade, o sistema irá gerar um código único para a não conformidade e se abrir na tela de detalhes da não conformidade.
+
+      ![image.png](inclusao_nc1.png)
+
+      Após a abertura do modal preencha os campos solicitados e clique em salvar para salvar a não conformidade.
+
+      ![image.png](inclusao_nc2.png)
+
+      Após o  preenchimento dos campos solicitados e clicar em salvar se abrirá as novas etapas do formulario para o tratamento da não conformidade.
+
+      ![image.png](inclusao_nc3.png)
+
+      Preencha as etapas :
+
+      - Responsavel : Responsavel pela não conformidade.
+
+      ![image.png](incluir_responsavel_nc.png)
+
+      Anexe os documentos necessários para o tratamento da não conformidade na etapa 
+
+      - Fato Ocorrido : 
+
+      ![image.png](fato_nc.png)
+
+      Caso no tratamento da NC seja indentificado algum equivoco preencha-o 
+
+      - Equivoco :
+
+      ![image.png](equivoco_nc.png)
+
+      Após o preenchimento das etapas e clicar em salvar , voltará para tela inicial da edição da não conformidade.
+
+      ![image.png](incluir_nc4.png)
+
+      Agora ao voltar para a tela inicial da edição da não conformidade , você poderá visualizar as etapas quando clicar no icone de detalhes.
+
+      ![image.png](relatorio_nc2.png)
+
+      Por aqui o criador da NC podera acompanhar o status da mesma. 
+
+      - ### Correções ![image.png](correcoes_icon.png)
+
+      Aplicação para tratamento das não conformidade
+
+      A aplicação permite que o usuário possa realizar as correções necessárias para a não conformidades 
+
+      - A mesma abre de maneira inicial com o filtro onde deve ser passado os paramentros 
+
+      Exemplo de verificação 
+
+      ![image.png](filtro_correcao.png)
+
+      Após realizada a passagem de parametros o relatorio sera aberto com as NC para a realização das correções ou acompanhamento.
+
+      ![image.png](consulta_correcoes.png)
+
+      Será aberto o formulario de correção para o tratamento da NC.
+
+      ![image.png](formulario_correcoes.png)
+      
+      Pode se verificar as informações nas aba de detalhes. porem nosso foco será a aba de tratamento onde as infomações para o tratamento da nc serão inseridas.
+
+      ![image.png](aba_tratamento_nc.png)
+
+       Após o preenchimento das informações e clicar em salvar , e ir para aba de Evidência , onde será  anexado os documentos necessários para o tratamento da NC. Podendo ser anexos ou uma lista de presença do mesmo. 
+
+       ![image.png](evidencia_nc.png)
+
+       - Caso a abertura da NC seja identificada algum equivoco preencha-o. porem a mesma esta sera validada pelo criador 
+      
+      - Equivoco :
+
+      ![image.png](equivoco_nc.png)
+
+      Após o preenchimento das etapas e clicar em salvar , voltará para tela inicial e a mesma mudará o status para em analise .
+
+      ![image.png](consulta_correcoes1.png)
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+     
+
+
+
+
+
+
 
 
 
